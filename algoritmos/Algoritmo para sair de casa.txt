@@ -1,0 +1,24 @@
+
+
+
+1-Verifique os 3 itens críticos (CCChaves)
+
+2-Celular: Está no bolso/carteira/carregado?
+
+3-Carteira (ou documento/CNH/cartões): Está com você?
+
+4-Chaves: Pegou as chaves de casa/carro?
+
+5-Itens adicionais (opcional, conforme necessidade):
+
+6-Fones de ouvido?
+
+7-Máscara/óculos?
+
+8-Guarda-chuva (se chover)?
+
+9-Garrafa de água?
+
+10-Confirme a porta:
+
+11-Trancou a porta ao sair?
