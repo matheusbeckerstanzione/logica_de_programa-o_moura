@@ -1,2 +1,6 @@
-Fluxograma
-[Início] → [Desligar notebook] → [Desconectar mouse] → [Limpar equipamentos] → [Guardar equipamentos] → [Verificar objetos esquecidos] → [Apagar luzes] → [Fim]
+1. Desligar o notebook.
+2. Desconectar o mouse.
+3. Limpar o notebook e o mouse com um pano adequado.
+4. Guardar o notebook e o mouse no local designado.
+5. Verificar se não há objetos pessoais esquecidos.
+6. Apagar as luzes e sair da sala.
