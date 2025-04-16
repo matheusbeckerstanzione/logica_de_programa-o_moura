@@ -1,0 +1,2 @@
+Fluxograma
+[Início] → [Desligar notebook] → [Desconectar mouse] → [Limpar equipamentos] → [Guardar equipamentos] → [Verificar objetos esquecidos] → [Apagar luzes] → [Fim]
