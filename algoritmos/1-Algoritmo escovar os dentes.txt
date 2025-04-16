@@ -1,1 +1,14 @@
+1-ir ate o banheiro 
+2-abrir o armário
+3-pegar a escova
+4-pegar a pasta de dente
+5-abrir a pasta de dente
+6-colocar a pasta de dente na escova
+7-abrir a torneira
+8- molhar a pasta
+9-direcionar a escova com a pasta na sua boca
+10-colocar a escova na boca
+11-fazer o movimento de escovação
+12-cuspir a pasta de dente na pia do banheiro
+13-cuspir a pasta de dente na pia do banheiro
 
